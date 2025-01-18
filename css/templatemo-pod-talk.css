@@ -13,15 +13,15 @@ https://templatemo.com/tm-584-pod-talk
 -----------------------------------------*/
 :root {
   --white-color:                  #ffffff;
-  --primary-color:                #00CC99;
-  --secondary-color:              #0066CC;
+  --primary-color:                #ff00c8;
+  --secondary-color:              #ff00dd;
   --section-bg-color:             #f0f8ff;
-  --custom-btn-bg-color:          #0066CC;
-  --custom-btn-bg-hover-color:    #00CC99;
+  --custom-btn-bg-color:          #d800c6;
+  --custom-btn-bg-hover-color:    #b40087;
   --dark-color:                   #000000;
   --p-color:                      #717275;
   --border-color:                 #7fffd4;
-  --link-hover-color:             #0066CC;
+  --link-hover-color:             #0084ff;
 
   --body-font-family:             'Montserrat', sans-serif;
   --title-font-family:            'Sono', sans-serif;
@@ -249,7 +249,7 @@ main {
   SITE HEADER              
 -----------------------------------------*/
 .site-header {
-  background-image: url('../images/templatemo-wave-header.jpg'), linear-gradient(#348CD2, #FFFFFF);;
+  background-image: url('../images/templatemo-wave-header.png'), linear-gradient(#d400ff, #FFFFFF);;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -475,7 +475,7 @@ main {
   CAROUSEL        
 -----------------------------------------*/
 .hero-section {
-  background-image: url('../images/templatemo-wave-banner.jpg'), linear-gradient(#348CD2, #FFFFFF);
+  background-image: url('../images/templatemo-wave-banner.png'), linear-gradient(#348CD2, #FFFFFF);
   background-repeat: no-repeat;
   background-size: 108% 76%;
   background-position: top;
@@ -1003,7 +1003,7 @@ main {
   SITE FOOTER              
 -----------------------------------------*/
 .site-footer {
-  background-image: url('../images/templatemo-wave-footer.jpg'), linear-gradient(#FFFFFF, #348CD2);
+  background-image: url('../images/templatemo-wave-footer.png'), linear-gradient(#FFFFFF, #348CD2);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
